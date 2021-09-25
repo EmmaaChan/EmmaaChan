@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EmmaaChan
+- 👀 I’m interested in Roblox develop
+- 🌱 I’m currently learning LUA coding
